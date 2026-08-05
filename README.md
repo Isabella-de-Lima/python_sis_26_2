@@ -4,9 +4,10 @@ Bem-vindos ao repositório da disciplina de Linguagem de Programação Python do
 
 Este espaço será o nosso laboratório prático. Aqui, vamos versionar nossos códigos, acompanhar a evolução do nosso aprendizado e simular um ambiente real de desenvolvimento e Gestão de TI.
 
+Link do formulário para solicitar acesso de Colaborador: https://forms.gle/NKnkfhpYnLqfzLSFA
 ---
 
-## 📌 Regras do Nosso Ambiente (Governança)
+## Regras do Nosso Ambiente (Governança)
 
 Para mantermos nosso repositório organizado e evitarmos conflitos de código, todos os alunos devem seguir as diretrizes abaixo ao enviar (*commit*) suas atividades.
 
@@ -30,7 +31,7 @@ Ao realizar a integração do Google Colab com o GitHub, certifique-se de salvar
 
 ---
 
-## 🚀 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 * **Linguagem:** Python 3
 * **Ambiente Principal:** Google Colab
 * **Versionamento:** Git e GitHub
